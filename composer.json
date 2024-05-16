@@ -28,5 +28,7 @@
                 "Dcat\\Admin\\Extension\\DcatSkuPlus\\DcatSkuPlusServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
